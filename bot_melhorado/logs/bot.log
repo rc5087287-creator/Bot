@@ -1,0 +1,15 @@
+[14/11/2026 12:22:16] [WARNING ] discord.client: PyNaCl is not installed, voice will NOT be supported
+[14/11/2026 12:22:16] [INFO    ] discord.client: logging in using static token
+[14/11/2026 12:22:16] [INFO    ] bot: Módulo carregado: bot.cogs.errors
+[14/11/2026 12:22:16] [INFO    ] bot: Módulo carregado: bot.cogs.general
+[14/11/2026 12:22:16] [INFO    ] bot: Módulo carregado: bot.cogs.fun
+[14/11/2026 12:22:16] [INFO    ] bot: Módulo carregado: bot.cogs.utility
+[14/11/2026 12:22:16] [INFO    ] bot: Módulo carregado: bot.cogs.levels
+[14/11/2026 12:22:16] [INFO    ] bot: Módulo carregado: bot.cogs.moderation
+[14/11/2026 12:22:16] [INFO    ] bot: Módulo carregado: bot.cogs.welcome
+[14/11/2026 12:22:16] [INFO    ] bot: Módulo carregado: bot.cogs.logs
+[14/11/2026 12:22:16] [INFO    ] bot: Módulo carregado: bot.cogs.settings
+[14/11/2026 12:22:16] [INFO    ] bot: Módulo carregado: bot.cogs.admin
+[14/11/2026 12:22:17] [INFO    ] bot: 47 comandos slash sincronizados.
+[14/11/2026 12:22:18] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 9c911c38a0ce12f5ba8d991fe2b2b2cb).
+[14/11/2026 12:22:20] [INFO    ] bot: Conectado como Rudeus#9608 (ID 1463319851811602617) em 1 servidores.
